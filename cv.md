@@ -6,3 +6,5 @@
 ### LinkedIn: [https://ua.linkedin.com/in/avm-1982](https://ua.linkedin.com/in/avm-1982)
 ### Github: [https://github.com/AVM82](https://github.com/AVM82)
 ### English: Intermediate
+## OBJECTIVE
+To obtain Java Developer or Android Developer position
