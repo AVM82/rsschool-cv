@@ -8,3 +8,19 @@
 ### English: Intermediate
 ## OBJECTIVE
 To obtain Java Developer or Android Developer position
+## SKILLS
+- Java Core (OOP, exception,collections, I/O,Multithreading )
+- IntelliJ IDEA / Android Studio
+- Spring boot, Spring Data, Springsecurity (jwt), Spring cloud (Consul,Zuul, Eureka)
+- Java Concurrency (basic)
+- PostgreSQL
+- myBatis
+- JUnit / Mockito
+- React (basic)
+- Android SDK
+- Room
+- SQLite
+- Realm
+- Retrofit
+- MVP / MVVM
+- Kotlin
