@@ -24,3 +24,13 @@ To obtain Java Developer or Android Developer position
 - Retrofit
 - MVP / MVVM
 - Kotlin
+## EDUCATION
+- 2000 - 2004 
+  - Kirovograd Cybernetic - Technical College, Ukraine  (Software of Automated Systems)
+- 2004 – 2006
+  - Kharkiv National University of Radio and Electronics (Software of Automated Systems)  
+- 2016 – 2018
+  - «JuJa» (Online training center for Junior Java Developers)
+  - [Ш++ IT-School](https://programming.org.ua/ua)
+- 05.2020 – 08.2020
+  - Binary Studio Academy 
